@@ -1,0 +1,16 @@
+run:
+Ho va ten: le truong hong phuc
+Student ID: 5954
+Hometown: da nang
+GPA: 0,8
+Major: an ninh mang
+Scholarship: false
+
+===== STUDENT INFORMATION =====
+Full name : le truong hong phuc
+Student ID: 5954
+Hometown  : da nang
+GPA       : 0.8
+Major     : an ninh mang
+Scholarship: false
+BUILD SUCCESSFUL (total time: 31 seconds)
